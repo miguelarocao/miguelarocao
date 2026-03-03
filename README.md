@@ -16,7 +16,7 @@ Before that: **Google** (ad conversion ML), **Blue Prism AI Labs** (intelligent 
 
 📵 **[Screenheads](https://screenheads.pages.dev/)** — Mobile web app that gamifies screen-free social gatherings. Put your phones down and compete.
 
-🧗 **[Grip Gauntlet](https://grip-gauntlet-478780309314.us-east1.run.app/)** — Browser-based climbing training game with Bluetooth force sensor integration. Turn your hangboard workout into a ring-collection challenge.
+🧗 **[Grip Gauntlet](https://grip-gauntlet.web.app/)** — Browser-based climbing training game with Bluetooth force sensor integration. Turn your hangboard workout into a ring-collection challenge.
 
 🎓 **[RL-Starterpack](https://github.com/RL-Starterpack/rl-starterpack)** — Tutorial materials from my RL for Information Retrieval talks at ECIR 2021 and Search Solutions 2020.
 
